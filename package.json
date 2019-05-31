@@ -1,0 +1,19 @@
+{
+  "name": "seeder-utils",
+  "version": "1.0.0",
+  "description": "Utils to generate random seeders",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator",
+    "seed",
+    "seeders",
+    "migration"
+  ],
+  "author": "Jesus Luongo Lizana",
+  "license": "MIT"
+}
